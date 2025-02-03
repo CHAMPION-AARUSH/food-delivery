@@ -8,7 +8,7 @@ import PlaceOrder from './components/PlaceOrder/PlaceOrder';
 import Footer from './components/Footer/Footer';
 import LoginPopup from './components/LoginPopup/LoginPopup';
 import Verify from './components/Verify/Verify';
-import MyOrders from './components/MyOrders/Myorders';
+import MyOrders from './components/MyOrders/MyOrders';
 
 function App() {
   const [count, setCount] = useState(0)
